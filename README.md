@@ -6,12 +6,12 @@ The datasets/checkpoints are available via Open Science Framework (OSF) at: [Lin
 ## Training
 For training run the following:
 ```
-$python Train.py
+$python train_ascent.py
 ```
 ## Testing
 For testing run the following:
 ```
-$python Test.py
+$python test.py
 ```
 ## K-fold 
 ```
